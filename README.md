@@ -37,3 +37,4 @@ Me chamo Ivailson Mota
   
 </div>
 
+![snake gif](https://github.com/SonMota/SonMota/blob/output/github-contribution-grid-snake.gif)
